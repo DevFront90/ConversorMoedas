@@ -1,0 +1,45 @@
+/* Media Queries */
+@media screen and (max-width:580px) {
+
+    .title {
+       top: 27px;
+    }
+
+    .title h1 {
+       font-size: 28px;
+    }
+
+    .box {
+        width: 90%;
+        height: 530px;
+       
+    } 
+
+    .box label {
+        text-align:center;
+    }
+
+    button.invert {
+       height: 50px;
+       margin-top: 20px;
+       padding: 10px;
+    }
+
+    input[type=number] {
+       margin-top: 10px;
+       
+    }
+
+    button {
+        width: 80%;
+        height: 50px;
+       margin-top: 10px;
+    }
+
+    #result {
+      font-size: 15px;
+     }
+
+
+}
+/***/
