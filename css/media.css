@@ -2,7 +2,7 @@
 @media screen and (max-width:580px) {
 
     .title {
-       top: 27px;
+       top: 10px;
     }
 
     .title h1 {
@@ -11,7 +11,7 @@
 
     .box {
         width: 90%;
-        height: 530px;
+        height: 500px;
        
     } 
 
