@@ -6,14 +6,10 @@
     }
 
     .title {
-       top: 10px;
+       display:none;
     }
 
-    .title h1 {
-       font-size: 28px;
-    }
-
-    .box {
+  .box {
         width: 90%;
         height: 500px;
        
