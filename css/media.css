@@ -29,6 +29,20 @@
        padding: 10px;
     }
 
+    .box #fromcurrency {
+        width:  80%;
+        height: 100px;
+        padding: 10px;
+        padding-left: 35px;
+        border: 1px solid #749aa5;
+        background-color:#3a5280;
+        color: #e6e4e4;
+        font-size: 13px;
+        font-family:sans-serif;
+        border-radius: 8px;
+        cursor: pointer;
+     }
+
     input[type=number] {
        margin-top: 10px;
        
