@@ -2,7 +2,7 @@
 @media screen and (max-width:580px) {
 
     .container {
-          margin-top: 30px;
+          margin-top: 10px;
     }
 
     .title {
@@ -11,7 +11,7 @@
 
   .box {
         width: 90%;
-        height: 500px;
+        height: 520px;
        
     } 
 
@@ -27,12 +27,12 @@
 
     .box #fromcurrency {
          font-size: 11px;
-          padding: 30px;
+          padding: 10px;
         
      }
 
     .box #toCurrency {
-        padding: 20px;
+        padding: 10px;
         font-size: 11px;
      }
 
